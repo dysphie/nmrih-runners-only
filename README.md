@@ -1,3 +1,6 @@
+> [!WARNING]
+> This plugin is unmaintained since Torn Banner's acquisition of the game.
+
 # [NMRiH] Runners Only
 This is a very simple plugin that turns all shamblers into runners.
 
